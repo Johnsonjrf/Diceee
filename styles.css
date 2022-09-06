@@ -12,6 +12,8 @@
 
 body {
   background-color: #393E46;
+  min-height: 100vh;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -39,3 +41,7 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+
+
+/* homepage */
